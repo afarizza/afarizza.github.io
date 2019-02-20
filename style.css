@@ -1,0 +1,17 @@
+body{
+background-color: beige
+}
+h1{
+color: blue;
+text-align: center;
+font-size: 70px
+}
+h2{
+color: purple
+}
+p{
+color: #4d0000
+}
+.center={
+text-align: center;
+}
